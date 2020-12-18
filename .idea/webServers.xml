@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d72e2992-af0f-4a70-8a32-5ef607364115" name="hihi" url="http://localhost/kiem-tra">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
